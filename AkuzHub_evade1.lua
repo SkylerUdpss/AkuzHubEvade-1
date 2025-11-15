@@ -13,7 +13,7 @@ local Window = Rayfield:CreateWindow({
     Icon = 105495960707973,
     ConfigurationSaving = {
         Enabled = true,
-        FolderName =akuzhubConfig",
+        FolderName =AkuzhubConfig",
         FileName = "EvadeConfig"
     },
     Discord = {
